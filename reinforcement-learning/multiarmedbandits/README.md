@@ -1,0 +1,1 @@
+Implementation of multi-armed bandit problem and algorithms for its solution from B. Sutton "Reinforcement learning"

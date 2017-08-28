@@ -1,1 +1,1 @@
-# Machine-Learning
+Repository for ML studying
